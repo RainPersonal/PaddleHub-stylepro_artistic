@@ -32,22 +32,7 @@ plt.show()
 ![png](output_2_0.png)
 
 
-## 毕加索画风的BadAppleMV
 
-
-```python
-from IPython.display import HTML
-HTML('<iframe style="width:98%;height: 450px;" src=//player.bilibili.com/player.html?aid=710442177&bvid=BV1QQ4y1P745&cid=184801392&page=1" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true"> </iframe>" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true"> </iframe>" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true"> </iframe>" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true"> </iframe>"   webkitallowfullscreen="true" mozallowfullscreen="true" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true"> </iframe>')
-```
-
-    /opt/conda/envs/python35-paddle120-env/lib/python3.7/site-packages/IPython/core/display.py:694: UserWarning: Consider using IPython.display.IFrame instead
-      warnings.warn("Consider using IPython.display.IFrame instead")
-
-
-
-
-
-<iframe style="width:98%;height: 450px;" src=//player.bilibili.com/player.html?aid=710442177&bvid=BV1QQ4y1P745&cid=184801392&page=1" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true"> </iframe>" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true"> </iframe>" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true"> </iframe>" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true"> </iframe>"   webkitallowfullscreen="true" mozallowfullscreen="true" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true"> </iframe>
 
 
 
